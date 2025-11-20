@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">TrembaTimofeevHero</string>
+    <string name="app_name">Killers</string>
+    <string name="m1">Dracula</string>
+    <string name="m2">Gunner</string>
+    <string name="m3">Spirirt</string>
+    <string name="m4">Senobit</string>
+    <string name="m5">Michael Myers</string>
+    <string name="m6">Hilly Billy</string>
+    <string name="m7">Buba</string>
+    <string name="m8">Ghost Face</string>
+    <string name="m9">Plague</string>
+    <string name="description_m1">Your blood will sing for me.</string>
+    <string name="description_m2">Exactly on target.</string>
+    <string name="description_m3">My rage echoes from beyond the grave.</string>
+    <string name="description_m4">Your suffering will be legendary.</string>
+    <string name="description_m5">...</string>
+    <string name="description_m6">The saw is family. And you are not.</string>
+    <string name="description_m7">Lets put a smile on that face.</string>
+    <string name="description_m8">Did you miss me? Ive been right behind you.</string>
+    <string name="description_m9">Be cleansed in the filth.</string>
 </resources>
